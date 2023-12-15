@@ -1,2 +1,3 @@
-# cis-4930-assignment-1
-A CLI task application written in C#.
+# CIS-4930 Assignment #1
+
+A simple CLI task application written in C# (Visual Studio 2019).
